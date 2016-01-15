@@ -1,0 +1,91 @@
+[
+    {
+        "outputFile": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 9,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 2,
+                        "startOffset": 14,
+                        "endLine": 2,
+                        "endColumn": 9,
+                        "endOffset": 84
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endLine": 5,
+                    "endColumn": 9,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 87,
+                        "endLine": 4,
+                        "endColumn": 9,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endLine": 7,
+                    "endColumn": 9,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 184,
+                        "endLine": 6,
+                        "endColumn": 9,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1011
+                    }
+                }
+            }
+        ]
+    }
+]

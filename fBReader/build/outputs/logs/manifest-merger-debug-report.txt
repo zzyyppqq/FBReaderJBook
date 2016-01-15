@@ -1,0 +1,747 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:2:1-387:12
+	package
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:4:3-49
+		INJECTED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:6:3-31
+		INJECTED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:5:3-32
+		INJECTED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:3:3-61
+	android:installLocation
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:7:3-33
+uses-sdk
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:9:2-13:4
+MERGED from [FBReaderJ1:ambilWarna:unspecified] /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/ambilWarna/unspecified/AndroidManifest.xml:7:5-9:40
+MERGED from [FBReaderJ1:library:unspecified] /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/library/unspecified/AndroidManifest.xml:7:5-9:40
+MERGED from [FBReaderJ1:superToasts:unspecified] /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [FBReaderJ1:code:unspecified] /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/AndroidManifest.xml:13:5-15:41
+	android:maxSdkVersion
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:11:4-30
+	android:targetSdkVersion
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:12:4-33
+		INJECTED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:10:4-30
+		INJECTED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:14:2-161
+	android:largeScreens
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:14:77-104
+	android:smallScreens
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:14:20-47
+	android:normalScreens
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:14:48-76
+	android:xlargeScreens
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:14:105-133
+	android:anyDensity
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:14:134-159
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:15:2-63
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:15:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:16:2-64
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:16:19-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:19:2-75
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:19:19-73
+application
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:20:2-386:16
+MERGED from [FBReaderJ1:ambilWarna:unspecified] /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/ambilWarna/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [FBReaderJ1:superToasts:unspecified] /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:24:3-35
+	android:icon
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:22:3-36
+	android:logo
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:23:3-39
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:21:3-71
+activity#org.geometerplus.android.fbreader.error.BookReadingErrorActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:26:3-32:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:26:132-156
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:26:157-218
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:26:93-131
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:26:13-92
+intent-filter#android.fbreader.action.ERROR+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:27:4-31:20
+action#android.fbreader.action.ERROR
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:28:5-59
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:28:13-57
+category#android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:29:5-63
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:29:15-61
+data
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:30:5-50
+	android:scheme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:30:11-48
+activity#org.geometerplus.zlibrary.ui.android.error.BugReportActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:33:3-238
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:33:125-149
+	android:label
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:33:53-83
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:33:212-236
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:33:150-211
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:33:84-124
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:33:13-52
+activity#org.geometerplus.android.fbreader.crash.FixBooksDirectoryActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:34:3-40:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:34:133-157
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:34:220-244
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:34:158-219
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:34:94-132
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:34:13-93
+intent-filter#android.fbreader.action.CRASH+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:35:4-39:20
+action#android.fbreader.action.CRASH
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:36:5-59
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:36:13-57
+activity#org.geometerplus.android.fbreader.crash.MissingNativeLibraryActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:41:3-52:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:41:136-160
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:41:223-247
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:41:161-222
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:41:97-135
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:41:13-96
+service#org.geometerplus.android.fbreader.api.ApiService
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:53:3-58:13
+	android:launchMode
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:53:76-107
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:53:12-75
+intent-filter#android.fbreader.action.API+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:54:4-57:20
+action#android.fbreader.action.API
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:55:5-57
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:55:13-55
+activity#org.geometerplus.android.fbreader.FBReader
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:59:3-160:14
+	android:label
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:63:4-36
+	android:launchMode
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:61:4-35
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:65:4-65
+	android:icon
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:62:4-37
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:64:4-44
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:60:4-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:67:4-70:20
+action#android.intent.action.MAIN
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:68:5-56
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:68:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:69:5-64
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:69:15-62
+intent-filter#android.fbreader.action.VIEW+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:71:4-74:20
+action#android.fbreader.action.VIEW
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:72:5-58
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:72:13-56
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:80:4-84:20
+action#android.intent.action.VIEW
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:81:5-56
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:81:13-54
+intent-filter#android.fbreader.action.PLUGIN+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:85:4-88:20
+action#android.fbreader.action.PLUGIN
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:86:5-60
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:86:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:128:4-147:20
+category#android.intent.category.BROWSABLE
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:131:5-65
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:131:15-63
+intent-filter#android.intent.action.SEARCH
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:148:4-150:20
+action#android.intent.action.SEARCH
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:149:5-58
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:149:13-56
+meta-data#android.app.searchable
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:151:4-89
+	android:resource
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:151:53-87
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:151:15-52
+intent-filter#android.fbreader.action.CLOSE+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:152:4-155:20
+action#android.fbreader.action.CLOSE
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:153:5-59
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:153:13-57
+intent-filter#android.fbreader.action.PLUGIN_CRASH+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:156:4-159:20
+action#android.fbreader.action.PLUGIN_CRASH
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:157:5-66
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:157:13-64
+activity#org.geometerplus.android.fbreader.dict.DictionaryNotInstalledActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:161:3-166:5
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:165:4-28
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:164:4-65
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:163:4-42
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:162:4-88
+activity#org.geometerplus.android.fbreader.CancelActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:167:3-172:14
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:167:116-177
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:167:77-115
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:167:13-76
+intent-filter#android.fbreader.action.CANCEL_MENU+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:168:4-171:20
+action#android.fbreader.action.CANCEL_MENU
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:169:5-65
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:169:13-63
+activity#org.geometerplus.android.fbreader.PluginListActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:173:3-183
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:173:120-181
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:173:81-119
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:173:13-80
+activity#org.geometerplus.android.fbreader.bookmark.BookmarksActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:175:3-184:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:175:121-149
+	android:launchMode
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:175:89-120
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:175:203-264
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:175:150-202
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:175:13-88
+intent-filter#android.fbreader.action.BOOKMARKS+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:180:4-183:20
+action#android.fbreader.action.BOOKMARKS
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:181:5-63
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:181:13-61
+activity#org.geometerplus.android.fbreader.bookmark.EditBookmarkActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:185:3-190:14
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:185:131-192
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:185:92-130
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:185:13-91
+intent-filter#android.fbreader.action.EDIT_BOOKMARK+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:186:4-189:20
+action#android.fbreader.action.EDIT_BOOKMARK
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:187:5-67
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:187:13-65
+activity#org.geometerplus.android.fbreader.bookmark.EditStyleActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:191:3-196:14
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:191:128-189
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:191:89-127
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:191:13-88
+intent-filter#android.fbreader.action.EDIT_STYLES+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:192:4-195:20
+action#android.fbreader.action.EDIT_STYLES
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:193:5-65
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:193:13-63
+activity#org.geometerplus.android.fbreader.image.ImageViewActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:198:3-219
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:198:86-114
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:198:156-217
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:198:115-155
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:198:13-85
+service#org.geometerplus.android.fbreader.libraryService.LibraryService
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:199:3-203:13
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:199:123-156
+	android:launchMode
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:199:91-122
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:199:12-90
+intent-filter#android.fbreader.action.LIBRARY_SERVICE
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:200:4-202:20
+action#android.fbreader.action.LIBRARY_SERVICE
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:201:5-69
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:201:13-67
+service#org.geometerplus.android.fbreader.config.ConfigService
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:204:3-208:13
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:204:114-146
+	android:launchMode
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:204:82-113
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:204:12-81
+intent-filter#android.fbreader.action.CONFIG_SERVICE
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:205:4-207:20
+action#android.fbreader.action.CONFIG_SERVICE
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:206:5-68
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:206:13-66
+service#org.geometerplus.android.fbreader.sync.SyncService
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:209:3-216:13
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:209:110-141
+	android:launchMode
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:209:78-109
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:209:12-77
+intent-filter#android.fbreader.action.sync.START
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:210:4-212:20
+action#android.fbreader.action.sync.START
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:211:5-64
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:211:13-62
+intent-filter#android.fbreader.action.sync.QUICK_SYNC
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:213:4-215:20
+action#android.fbreader.action.sync.QUICK_SYNC
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:214:5-69
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:214:13-67
+activity#org.geometerplus.android.fbreader.library.BookInfoActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:217:3-227:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:220:4-30
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:221:4-65
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:219:4-44
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:218:4-77
+intent-filter#android.fbreader.action.BOOK_INFO+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:223:4-226:20
+action#android.fbreader.action.BOOK_INFO
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:224:5-63
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:224:13-61
+activity#org.geometerplus.android.fbreader.library.LibrarySearchActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:228:3-233:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:228:92-118
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:228:119-165
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:228:13-91
+activity#org.geometerplus.android.fbreader.library.LibraryActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:234:3-240:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:234:118-144
+	android:launchMode
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:234:86-117
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:234:186-247
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:234:145-185
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:234:13-85
+meta-data#android.app.default_searchable
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:235:4-142
+	android:value
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:235:61-140
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:235:15-60
+intent-filter#android.fbreader.action.LIBRARY+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:236:4-239:20
+action#android.fbreader.action.LIBRARY
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:237:5-61
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:237:13-59
+activity#org.geometerplus.android.fbreader.TOCActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:241:3-178
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:241:115-176
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:241:74-114
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:241:13-73
+activity#org.geometerplus.android.fbreader.preferences.PreferenceActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:242:3-252:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:242:196-226
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:242:134-195
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:242:93-133
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:242:13-92
+intent-filter#android.fbreader.action.PREFERENCES+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:248:4-251:20
+action#android.fbreader.action.PREFERENCES
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:249:5-65
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:249:13-63
+activity#org.geometerplus.android.fbreader.preferences.EditBookInfoActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:253:3-226
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:253:95-121
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:253:163-224
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:253:122-162
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:253:13-94
+activity#org.geometerplus.android.fbreader.sync.MissingBookActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:254:3-223
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:254:87-120
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:254:160-221
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:254:121-159
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:254:13-86
+activity#org.geometerplus.android.fbreader.network.BookDownloader
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:255:3-309:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:255:85-118
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:255:119-165
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:255:13-84
+service#org.geometerplus.android.fbreader.network.BookDownloaderService
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:310:3-183
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:310:123-156
+	android:launchMode
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:310:91-122
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:310:157-181
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:310:12-90
+activity#org.geometerplus.android.fbreader.network.NetworkSearchActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:311:3-316:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:311:92-125
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:311:126-172
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:311:13-91
+activity#org.geometerplus.android.fbreader.network.auth.WebAuthorisationScreen
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:317:3-261
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:317:98-131
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:317:235-259
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:317:173-234
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:317:132-172
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:317:13-97
+activity#org.geometerplus.android.fbreader.network.NetworkLibraryPrimaryActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:318:3-330:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:318:100-133
+	android:launchMode
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:318:134-165
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:318:207-268
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:318:166-206
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:318:13-99
+intent-filter#android.fbreader.action.OPEN_NETWORK_CATALOG+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:320:4-325:20
+action#android.fbreader.action.OPEN_NETWORK_CATALOG
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:321:5-74
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:321:13-72
+intent-filter#android.fbreader.action.NETWORK_LIBRARY+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:326:4-329:20
+action#android.fbreader.action.NETWORK_LIBRARY
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:327:5-69
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:327:13-67
+activity#org.geometerplus.android.fbreader.network.NetworkLibrarySecondaryActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:331:3-240
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:331:102-135
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:331:177-238
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:331:136-176
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:331:13-101
+activity#org.geometerplus.android.fbreader.network.AuthenticationActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:332:3-229
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:332:93-126
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:332:166-227
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:332:127-165
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:332:13-92
+activity#org.geometerplus.android.fbreader.network.BuyBooksActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:333:3-223
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:333:87-120
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:333:160-221
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:333:121-159
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:333:13-86
+activity#org.geometerplus.android.fbreader.network.AddCatalogMenuActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:334:3-229
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:334:93-126
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:334:166-227
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:334:127-165
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:334:13-92
+activity#org.geometerplus.android.fbreader.network.AddCustomCatalogActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:335:3-357:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:335:95-128
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:335:168-229
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:335:129-167
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:335:13-94
+intent-filter#android.fbreader.action.ADD_OPDS_CATALOG+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:336:4-340:20
+action#android.fbreader.action.ADD_OPDS_CATALOG
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:337:5-70
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:337:13-68
+intent-filter#android.fbreader.action.ADD_OPDS_CATALOG_URL+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:347:4-351:20
+action#android.fbreader.action.ADD_OPDS_CATALOG_URL
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:348:5-74
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:348:13-72
+activity#org.geometerplus.android.fbreader.network.AuthorisationMenuActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:358:3-232
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:358:96-129
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:358:169-230
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:358:130-168
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:358:13-95
+activity#org.geometerplus.android.fbreader.network.litres.UserRegistrationActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:359:3-238
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:359:102-135
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:359:175-236
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:359:136-174
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:359:13-101
+activity#org.geometerplus.android.fbreader.network.litres.AutoRegistrationActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:360:3-238
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:360:102-135
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:360:175-236
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:360:136-174
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:360:13-101
+activity#org.geometerplus.android.fbreader.network.TopupMenuActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:361:3-224
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:361:88-121
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:361:161-222
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:361:122-160
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:361:13-87
+activity#org.geometerplus.android.fbreader.network.NetworkBookInfoActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:362:3-368:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:362:94-127
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:362:169-230
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:362:128-168
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:362:13-93
+activity#org.geometerplus.android.fbreader.network.CatalogManagerActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:369:3-169
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:369:93-126
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:369:127-167
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:369:13-92
+receiver#org.geometerplus.android.fbreader.network.ListenerCallback
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:370:3-375:14
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:370:87-120
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:370:13-86
+intent-filter#android.fbreader.action.network.SIGNIN+android.intent.category.DEFAULT
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:371:4-374:20
+action#android.fbreader.action.network.SIGNIN
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:372:5-68
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:372:13-66
+activity#org.geometerplus.android.fbreader.tips.TipsActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:376:3-182
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:376:119-180
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:376:80-118
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:376:13-79
+activity#com.paragon.dictionary.fbreader.OpenDictionaryActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:377:3-190
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:377:127-188
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:377:83-126
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:377:13-82
+service#org.geometerplus.android.fbreader.httpd.DataService
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:378:3-168
+	android:process
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:378:111-141
+	android:launchMode
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:378:79-110
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:378:142-166
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:378:12-78
+service#group.pals.android.lib.ui.filechooser.services.LocalFileProvider
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:379:3-118
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:379:92-116
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:379:12-91
+activity#group.pals.android.lib.ui.filechooser.FileChooserActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:380:3-222
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:380:196-220
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:380:86-156
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:380:157-195
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:380:13-85
+activity#org.geometerplus.android.fbreader.preferences.background.Chooser
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:381:3-229
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:381:203-227
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:381:93-163
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:381:164-202
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:381:13-92
+activity#org.geometerplus.android.fbreader.preferences.background.PredefinedImages
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:382:3-238
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:382:212-236
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:382:102-172
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:382:173-211
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:382:13-101
+activity#org.geometerplus.android.util.FolderListDialogActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:383:3-219
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:383:193-217
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:383:83-153
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:383:154-192
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:383:13-82
+activity#org.geometerplus.android.util.EditTagsDialogActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:384:3-217
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:384:191-215
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:384:81-151
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:384:152-190
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:384:13-80
+activity#org.geometerplus.android.util.EditAuthorsDialogActivity
+ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:385:3-220
+	android:exported
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:385:194-218
+	android:configChanges
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:385:84-154
+	android:theme
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:385:155-193
+	android:name
+		ADDED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:385:13-83
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/AndroidManifest.xml:2:1-387:12 reason: yuku.ambilwarna has a targetSdkVersion < 4

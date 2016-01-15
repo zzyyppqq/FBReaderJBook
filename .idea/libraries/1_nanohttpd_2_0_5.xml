@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="1_nanohttpd-2.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fBReader/src/main/libs/nanohttpd-2.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
