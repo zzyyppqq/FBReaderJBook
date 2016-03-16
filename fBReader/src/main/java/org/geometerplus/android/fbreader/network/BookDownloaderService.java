@@ -210,6 +210,7 @@ public class BookDownloaderService extends Service {
 		return intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
 	}
 
+	@Deprecated
 	private Notification createDownloadFinishNotification(File file, String title, boolean success) {
 		final ZLResource resource = getResource();
 		final String tickerText = success ?
@@ -227,6 +228,9 @@ public class BookDownloaderService extends Service {
 		final Intent intent = success ? getFBReaderIntent(file) : new Intent();
 		final PendingIntent contentIntent = PendingIntent.getActivity(this, 0, intent, 0);
 		notification.setLatestEventInfo(getApplicationContext(), title, contentText, contentIntent);
+		Notification.Builder builder = new Notification.Builder(getApplicationContext()).setTicker(tickerText)
+				.setSmallIcon(android.R.drawable.stat_sys_download_done);
+		builder.setContentIntent(contentIntent).setContentTitle(title).setContentText(contentText);
 		return notification;
 	}
 

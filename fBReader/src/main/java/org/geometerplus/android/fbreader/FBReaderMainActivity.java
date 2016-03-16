@@ -19,20 +19,23 @@
 
 package org.geometerplus.android.fbreader;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 import android.view.WindowManager;
 
 import com.github.johnpersano.supertoasts.SuperActivityToast;
 
-import org.geometerplus.zlibrary.core.options.*;
-import org.geometerplus.zlibrary.ui.android.library.*;
+import org.geometerplus.android.fbreader.dict.DictionaryUtil;
+import org.geometerplus.zlibrary.core.options.ZLIntegerOption;
+import org.geometerplus.zlibrary.core.options.ZLIntegerRangeOption;
+import org.geometerplus.zlibrary.core.options.ZLStringOption;
+import org.geometerplus.zlibrary.ui.android.library.UncaughtExceptionHandler;
+import org.geometerplus.zlibrary.ui.android.library.ZLAndroidApplication;
+import org.geometerplus.zlibrary.ui.android.library.ZLAndroidLibrary;
 import org.geometerplus.zlibrary.ui.android.view.AndroidFontUtil;
 
-import org.geometerplus.android.fbreader.dict.DictionaryUtil;
-
-public abstract class FBReaderMainActivity extends Activity {
+public abstract class FBReaderMainActivity extends FragmentActivity {
 	public static final int REQUEST_PREFERENCES = 1;
 	public static final int REQUEST_CANCEL_MENU = 2;
 	public static final int REQUEST_DICTIONARY = 3;

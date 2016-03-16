@@ -87,6 +87,29 @@ public final class R {
 		public static final int afc_selector_button_ok_saveas = 0x7f020035;
 		public static final int afc_selector_button_sort_as = 0x7f020036;
 		public static final int afc_selector_button_sort_de = 0x7f020037;
+		public static final int setting_book_info = 0x7f0200ad;
+		public static final int setting_book_search = 0x7f0200ae;
+		public static final int setting_bookmark = 0x7f0200af;
+		public static final int setting_bookmark2 = 0x7f0200b0;
+		public static final int setting_dark = 0x7f0200b1;
+		public static final int setting_day = 0x7f0200b2;
+		public static final int setting_dir = 0x7f0200b3;
+		public static final int setting_directory = 0x7f0200b4;
+		public static final int setting_fast_progress = 0x7f0200b5;
+		public static final int setting_fast_progress2 = 0x7f0200b6;
+		public static final int setting_font_big = 0x7f0200b7;
+		public static final int setting_font_small = 0x7f0200b8;
+		public static final int setting_help = 0x7f0200b9;
+		public static final int setting_local_book = 0x7f0200ba;
+		public static final int setting_more_set = 0x7f0200bb;
+		public static final int setting_online_book = 0x7f0200bc;
+		public static final int setting_plug = 0x7f0200bd;
+		public static final int setting_plug2 = 0x7f0200be;
+		public static final int setting_screen_orientation = 0x7f0200bf;
+		public static final int setting_set = 0x7f0200c0;
+		public static final int setting_share = 0x7f0200c1;
+		public static final int setting_start_screen = 0x7f0200c2;
+		public static final int setting_start_screen2 = 0x7f0200c3;
 	}
 	public static final class id {
 		public static final int afc_context_menu_view_listview_menu = 0x7f0c0015;
@@ -104,9 +127,9 @@ public final class R {
 		public static final int afc_filechooser_activity_button_sort = 0x7f0c001f;
 		public static final int afc_filechooser_activity_footer_view_divider = 0x7f0c0028;
 		public static final int afc_filechooser_activity_header_view_divider = 0x7f0c0022;
-		public static final int afc_filechooser_activity_menugroup_navigator = 0x7f0c0102;
-		public static final int afc_filechooser_activity_menuitem_home = 0x7f0c0103;
-		public static final int afc_filechooser_activity_menuitem_reload = 0x7f0c0104;
+		public static final int afc_filechooser_activity_menugroup_navigator = 0x7f0c0107;
+		public static final int afc_filechooser_activity_menuitem_home = 0x7f0c0108;
+		public static final int afc_filechooser_activity_menuitem_reload = 0x7f0c0109;
 		public static final int afc_filechooser_activity_textview_full_dir_name = 0x7f0c0023;
 		public static final int afc_filechooser_activity_textview_saveas_filename = 0x7f0c002a;
 		public static final int afc_filechooser_activity_view_files_container = 0x7f0c0026;

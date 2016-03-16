@@ -19,27 +19,64 @@
 
 package org.geometerplus.fbreader.fbreader;
 
-import java.util.*;
+import android.os.Parcel;
+import android.os.Parcelable;
 
 import org.fbreader.util.ComparisonUtil;
-
-import org.geometerplus.zlibrary.core.application.*;
-import org.geometerplus.zlibrary.core.drm.FileEncryptionInfo;
+import org.geometerplus.fbreader.book.Author;
+import org.geometerplus.fbreader.book.Book;
+import org.geometerplus.fbreader.book.BookEvent;
+import org.geometerplus.fbreader.book.BookUtil;
+import org.geometerplus.fbreader.book.Bookmark;
+import org.geometerplus.fbreader.book.BookmarkQuery;
+import org.geometerplus.fbreader.book.BookmarkUtil;
+import org.geometerplus.fbreader.book.IBookCollection;
+import org.geometerplus.fbreader.bookmodel.BookModel;
+import org.geometerplus.fbreader.bookmodel.TOCTree;
+import org.geometerplus.fbreader.fbreader.options.CancelMenuHelper;
+import org.geometerplus.fbreader.fbreader.options.ImageOptions;
+import org.geometerplus.fbreader.fbreader.options.MiscOptions;
+import org.geometerplus.fbreader.fbreader.options.PageTurningOptions;
+import org.geometerplus.fbreader.fbreader.options.SyncOptions;
+import org.geometerplus.fbreader.fbreader.options.ViewOptions;
+import org.geometerplus.fbreader.formats.BookReadingException;
+import org.geometerplus.fbreader.formats.ExternalFormatPlugin;
+import org.geometerplus.fbreader.formats.FormatPlugin;
+import org.geometerplus.fbreader.formats.PluginCollection;
+import org.geometerplus.fbreader.network.sync.SyncData;
+import org.geometerplus.fbreader.util.AutoTextSnippet;
+import org.geometerplus.fbreader.util.EmptyTextSnippet;
+import org.geometerplus.fbreader.util.TextSnippet;
+import org.geometerplus.zlibrary.core.application.ZLApplication;
+import org.geometerplus.zlibrary.core.application.ZLKeyBindings;
 import org.geometerplus.zlibrary.core.drm.EncryptionMethod;
-import org.geometerplus.zlibrary.core.util.*;
-
+import org.geometerplus.zlibrary.core.drm.FileEncryptionInfo;
+import org.geometerplus.zlibrary.core.util.RationalNumber;
+import org.geometerplus.zlibrary.core.util.SystemInfo;
 import org.geometerplus.zlibrary.text.hyphenation.ZLTextHyphenator;
 import org.geometerplus.zlibrary.text.model.ZLTextModel;
-import org.geometerplus.zlibrary.text.view.*;
+import org.geometerplus.zlibrary.text.view.ZLTextFixedPosition;
+import org.geometerplus.zlibrary.text.view.ZLTextParagraphCursor;
+import org.geometerplus.zlibrary.text.view.ZLTextPosition;
+import org.geometerplus.zlibrary.text.view.ZLTextView;
+import org.geometerplus.zlibrary.text.view.ZLTextWordCursor;
 
-import org.geometerplus.fbreader.book.*;
-import org.geometerplus.fbreader.bookmodel.*;
-import org.geometerplus.fbreader.fbreader.options.*;
-import org.geometerplus.fbreader.formats.*;
-import org.geometerplus.fbreader.network.sync.SyncData;
-import org.geometerplus.fbreader.util.*;
+import java.util.Collections;
+import java.util.Date;
+import java.util.LinkedList;
+import java.util.List;
 
-public final class FBReaderApp extends ZLApplication {
+public final class FBReaderApp extends ZLApplication implements Parcelable {
+	@Override
+	public int describeContents() {
+		return 0;
+	}
+
+	@Override
+	public void writeToParcel(Parcel dest, int flags) {
+
+	}
+
 	public interface ExternalFileOpener {
 		public void openFile(ExternalFormatPlugin plugin, Book book, Bookmark bookmark);
 	}

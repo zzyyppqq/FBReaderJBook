@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "outputFile": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 125
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/values-v11/styles.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 2,
@@ -33,7 +33,7 @@
                     "endOffset": 224
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/values-v11/styles.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -54,7 +54,7 @@
                     "endOffset": 304
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/values-v11/styles.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 2,
@@ -75,7 +75,7 @@
                     "endOffset": 1265
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/res/values-v11/values-v11.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/code/unspecified/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

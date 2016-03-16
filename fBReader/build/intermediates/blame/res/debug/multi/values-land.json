@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/values-land/values-land.xml",
+        "outputFile": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/values-land/values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 103
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/ambilWarna/unspecified/res/values-land/values-land.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/ambilWarna/unspecified/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 155
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/ambilWarna/unspecified/res/values-land/values-land.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/ambilWarna/unspecified/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

@@ -90,6 +90,29 @@ public final class R {
         public static int afc_selector_button_ok_saveas=0x7f020035;
         public static int afc_selector_button_sort_as=0x7f020036;
         public static int afc_selector_button_sort_de=0x7f020037;
+        public static int setting_book_info=0x7f020038;
+        public static int setting_book_search=0x7f020039;
+        public static int setting_bookmark=0x7f02003a;
+        public static int setting_bookmark2=0x7f02003b;
+        public static int setting_dark=0x7f02003c;
+        public static int setting_day=0x7f02003d;
+        public static int setting_dir=0x7f02003e;
+        public static int setting_directory=0x7f02003f;
+        public static int setting_fast_progress=0x7f020040;
+        public static int setting_fast_progress2=0x7f020041;
+        public static int setting_font_big=0x7f020042;
+        public static int setting_font_small=0x7f020043;
+        public static int setting_help=0x7f020044;
+        public static int setting_local_book=0x7f020045;
+        public static int setting_more_set=0x7f020046;
+        public static int setting_online_book=0x7f020047;
+        public static int setting_plug=0x7f020048;
+        public static int setting_plug2=0x7f020049;
+        public static int setting_screen_orientation=0x7f02004a;
+        public static int setting_set=0x7f02004b;
+        public static int setting_share=0x7f02004c;
+        public static int setting_start_screen=0x7f02004d;
+        public static int setting_start_screen2=0x7f02004e;
     }
     public static final class id {
         public static int afc_context_menu_view_listview_menu=0x7f0b0000;

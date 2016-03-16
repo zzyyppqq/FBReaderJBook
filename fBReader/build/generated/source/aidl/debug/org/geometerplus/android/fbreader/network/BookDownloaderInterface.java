@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/aidl/org/geometerplus/android/fbreader/network/BookDownloaderInterface.aidl
+ * Original file: /Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/aidl/org/geometerplus/android/fbreader/network/BookDownloaderInterface.aidl
  */
 package org.geometerplus.android.fbreader.network;
 public interface BookDownloaderInterface extends android.os.IInterface

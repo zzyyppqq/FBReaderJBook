@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/aidl/org/geometerplus/android/fbreader/formatPlugin/CoverReader.aidl
+ * Original file: /Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/aidl/org/geometerplus/android/fbreader/formatPlugin/CoverReader.aidl
  */
 package org.geometerplus.android.fbreader.formatPlugin;
 public interface CoverReader extends android.os.IInterface

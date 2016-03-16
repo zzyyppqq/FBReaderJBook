@@ -2,67 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/libs/httpmime-4.2.5.jar"
+        jar="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/novelreaderbook/build/intermediates/incremental-classes/debug/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="36f95a7708086636806d7ed3e64f010855742bd2">
-        <dex dex="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/pre-dexed/debug/httpmime-4.2.5_b9b84ddb461088f9bb96aa61076518708ebd448b.jar" />
-    </item>
-    <item
-        jar="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/libs/nanohttpd-2.0.5.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="c3d42a4f9a2203a2f31cbe5a303620db1593b952">
-        <dex dex="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/pre-dexed/debug/nanohttpd-2.0.5_e6a71736f460dbea4f7f6cc8160c61e010240d90.jar" />
-    </item>
-    <item
-        jar="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/libs/LingvoIntegration_2.5.2.12.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1f7b7852ec6e7567e6096d8ac7c14908c3047500">
-        <dex dex="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/pre-dexed/debug/LingvoIntegration_2.5.2.12_7ae5f917b4834a02c72f5e69d1d222c58fa56441.jar" />
-    </item>
-    <item
-        jar="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/libs/open-dictionary-api-1.2.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="c4817fa5e7ad1f4fc0fcf4d2d81025356ea1b1b3">
-        <dex dex="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/pre-dexed/debug/open-dictionary-api-1.2.1_e82a7ee0a6acf2caa5abd56fd07dfcc8554dc6ec.jar" />
-    </item>
-    <item
-        jar="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6c3413c1c21e69807cf59ce820272397c7b0f0a9">
-        <dex dex="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/pre-dexed/debug/instant-run_cd6cf12f330aa87b5e4de62e809eba33c6ea4e36.jar" />
-    </item>
-    <item
-        jar="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/libs/json-simple-1.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
-        <dex dex="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/pre-dexed/debug/json-simple-1.1.1_411f682cf3d86f5edd7fcf7748af5b78f0a01868.jar" />
-    </item>
-    <item
-        jar="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/libs/pdfparse.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a73e32b031244de43af228ee69a3a1c28011c62c">
-        <dex dex="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/pre-dexed/debug/pdfparse_3001bfa79de5aa63d47cf2daadaef89384b619b8.jar" />
-    </item>
-    <item
-        jar="/Users/zhangyipeng/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/pre-dexed/debug/support-v4-19.1.0_d95fa10718fafd27517346dc9ee6761f0658803b.jar" />
-    </item>
-    <item
-        jar="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/incremental-classes/debug/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a56e6052673f8bd9af1ceacbcdcb6e0a96a4fbd2">
-        <dex dex="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/pre-dexed/debug/classes_63c1dc2f09b44dae6dc166d81f3f486da10b659c.jar" />
+        sha1="54b1077c6321ba95185dec024e3402f9e7247cf5">
+        <dex dex="/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/novelreaderbook/build/intermediates/pre-dexed/debug/classes_dd00044cff3e2d7add347ed14deb8394e94ac976.jar" />
     </item>
 
 </items>

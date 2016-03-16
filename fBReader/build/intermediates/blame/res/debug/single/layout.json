@@ -1,262 +1,274 @@
 [
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/bug_report_view.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/bug_report_view.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/lr_user_registration.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/lr_user_registration.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/afc_button_location.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/res/layout/afc_button_location.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/lr_action_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/lr_action_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/dummy_layout.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/layout/dummy_layout.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/folder_list_dialog.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/folder_list_dialog.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/supercardtoast_progresscircle.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/layout/supercardtoast_progresscircle.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/edit_authors_dialog.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/edit_authors_dialog.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/library_tree_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/library_tree_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/superactivitytoast_progresscircle.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/layout/superactivitytoast_progresscircle.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/network_book.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/network_book.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/style_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/style_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/toc_tree_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/toc_tree_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/toc_tree_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/toc_tree_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/lr_user_registration.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/lr_user_registration.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/bug_report_view.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/bug_report_view.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/menu_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/menu_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/library_tree_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/library_tree_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/catalog_manager_section_head.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/catalog_manager_section_head.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/edit_list_dialog_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/edit_list_dialog_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/tip.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/tip.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/book_setting.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/book_setting.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/opendictionary_flyout.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/opendictionary_flyout.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/main.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/book_popup.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/book_popup.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/lr_email_control.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/lr_email_control.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/plugin_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/plugin_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/afc_simple_text_input_view.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/code/unspecified/res/layout/afc_simple_text_input_view.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/navigation_panel.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/navigation_panel.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/afc_context_menu_view.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/code/unspecified/res/layout/afc_context_menu_view.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/selection_panel.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/selection_panel.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/opendictionary_flyout.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/opendictionary_flyout.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/catalog_manager_view.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/catalog_manager_view.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/navigation_panel.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/navigation_panel.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/bookmarks.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/bookmarks.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/dummy_layout.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/layout/dummy_layout.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/supercardtoast.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/layout/supercardtoast.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/plugin_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/plugin_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/simple_dialog.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/simple_dialog.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/extra_link_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/extra_link_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/ambilwarna_dialog.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/ambilWarna/unspecified/res/layout/ambilwarna_dialog.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/simple_dialog.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/simple_dialog.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/background_preference.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/background_preference.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/cancel_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/cancel_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/edit_tags_dialog.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/edit_tags_dialog.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/book_info.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/book_info.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/edit_bookmark.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/edit_bookmark.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/superactivitytoast_button.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/layout/superactivitytoast_button.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/style_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/style_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/catalog_manager_section_head.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/catalog_manager_section_head.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/afc_simple_text_input_view.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/res/layout/afc_simple_text_input_view.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/string_preference_dialog.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/string_preference_dialog.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/ok_cancel_buttons.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/ok_cancel_buttons.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/edit_tags_dialog.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/edit_tags_dialog.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/book_info.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/book_info.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/background_preference.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/background_preference.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/superactivitytoast_button.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/layout/superactivitytoast_button.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/catalog_manager_view.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/catalog_manager_view.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/afc_context_menu_view.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/res/layout/afc_context_menu_view.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/book_popup.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/book_popup.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/supercardtoast_progresshorizontal.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/layout/supercardtoast_progresshorizontal.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/bookmarks.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/bookmarks.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/add_custom_catalog.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/add_custom_catalog.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/edit_bookmark.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/edit_bookmark.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/bookmark_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/bookmark_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/afc_file_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/code/unspecified/res/layout/afc_file_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/animation_speed_dialog.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/animation_speed_dialog.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/supercardtoast_progresscircle.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/layout/supercardtoast_progresscircle.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/plugin_dialog.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/plugin_dialog.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/background_chooser_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/background_chooser_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/string_preference_dialog.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/string_preference_dialog.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/catalog_manager_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/catalog_manager_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/catalog_manager_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/catalog_manager_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/tip.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/tip.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/supercardtoast_button.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/layout/supercardtoast_button.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/supercardtoast_button.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/layout/supercardtoast_button.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/authentication.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/authentication.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/search_panel.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/search_panel.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/download_notification.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/download_notification.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/ambilwarna_pref_widget.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/ambilWarna/unspecified/res/layout/ambilwarna_pref_widget.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/afc_file_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/res/layout/afc_file_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/afc_gridview_files.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/code/unspecified/res/layout/afc_gridview_files.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/lr_auto_registration.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/lr_auto_registration.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/ok_cancel_buttons.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/ok_cancel_buttons.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/folder_list_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/folder_list_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/plugin_dialog.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/plugin_dialog.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/background_predefined_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/background_predefined_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/book_setting_fragment.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/book_setting_fragment.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/lr_action_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/lr_action_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/network_book.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/network_book.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/search_panel.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/search_panel.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/ambilwarna_dialog.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/ambilWarna/unspecified/res/layout/ambilwarna_dialog.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/ambilwarna_pref_widget.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/ambilWarna/unspecified/res/layout/ambilwarna_pref_widget.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/afc_listview_files.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/code/unspecified/res/layout/afc_listview_files.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/cancel_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/cancel_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/supercardtoast_progresshorizontal.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/layout/supercardtoast_progresshorizontal.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/edit_authors_dialog.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/edit_authors_dialog.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/menu_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/menu_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/extra_link_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/extra_link_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/afc_button_location.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/code/unspecified/res/layout/afc_button_location.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/lr_email_control.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/lr_email_control.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/selection_panel.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/selection_panel.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/book_info_pair.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/book_info_pair.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/book_info_pair.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/book_info_pair.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/color_preference.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/color_preference.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/authentication.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/authentication.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/afc_listview_files.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/res/layout/afc_listview_files.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/superactivitytoast_progresshorizontal.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/layout/superactivitytoast_progresshorizontal.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/edit_list_dialog_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/edit_list_dialog_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/background_predefined_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/background_predefined_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/book_popup_night.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/book_popup_night.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/bookmark_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/bookmark_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/afc_context_menu_tiem.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/res/layout/afc_context_menu_tiem.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/download_notification.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/download_notification.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/supertoast.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/layout/supertoast.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/add_custom_catalog.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/add_custom_catalog.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/superactivitytoast_progresshorizontal.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/layout/superactivitytoast_progresshorizontal.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/animation_speed_dialog.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/animation_speed_dialog.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/superactivitytoast_progresscircle.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/layout/superactivitytoast_progresscircle.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/books_directory_fix.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/books_directory_fix.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/folder_list_dialog.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/folder_list_dialog.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/book_setting_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/book_setting_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/books_directory_fix.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/books_directory_fix.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/folder_list_item.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/folder_list_item.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/afc_gridview_files.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/res/layout/afc_gridview_files.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/supertoast.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/layout/supertoast.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/main.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/supercardtoast.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/layout/supercardtoast.xml"
     },
     {
-        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/layout/background_chooser_item.xml",
-        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/res/layout/background_chooser_item.xml"
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/lr_auto_registration.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/lr_auto_registration.xml"
+    },
+    {
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/book_popup_night.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/book_popup_night.xml"
+    },
+    {
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/afc_context_menu_tiem.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/code/unspecified/res/layout/afc_context_menu_tiem.xml"
+    },
+    {
+        "merged": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/layout/color_preference.xml",
+        "source": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/res/layout/color_preference.xml"
     }
 ]

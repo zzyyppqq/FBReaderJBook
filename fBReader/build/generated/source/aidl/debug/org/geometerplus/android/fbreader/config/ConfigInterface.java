@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/src/main/aidl/org/geometerplus/android/fbreader/config/ConfigInterface.aidl
+ * Original file: /Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/src/main/aidl/org/geometerplus/android/fbreader/config/ConfigInterface.aidl
  */
 package org.geometerplus.android.fbreader.config;
 public interface ConfigInterface extends android.os.IInterface

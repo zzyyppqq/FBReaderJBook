@@ -26,8 +26,8 @@
     <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
     <application
-        android:name="com.android.tools.fd.runtime.BootstrapApplication"
         name="org.geometerplus.android.fbreader.FBReaderApplication"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:icon="@drawable/fbreader"
         android:label="@string/app_name"
         android:logo="@drawable/fbreader_bw" >

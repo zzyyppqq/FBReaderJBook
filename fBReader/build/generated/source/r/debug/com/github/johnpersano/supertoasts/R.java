@@ -55,31 +55,31 @@ public final class R {
 		public static final int selector_kitkat_square_undobutton = 0x7f0200aa;
 		public static final int selector_kitkat_undobutton = 0x7f0200ab;
 		public static final int selector_undobutton = 0x7f0200ac;
-		public static final int shape_kitkat_square_undobarfocused = 0x7f0200ad;
-		public static final int shape_kitkat_square_undobarselected = 0x7f0200ae;
-		public static final int shape_kitkat_undobarfocused = 0x7f0200af;
-		public static final int shape_kitkat_undobarselected = 0x7f0200b0;
-		public static final int shape_undobarfocused = 0x7f0200b1;
-		public static final int shape_undobarselected = 0x7f0200b2;
+		public static final int shape_kitkat_square_undobarfocused = 0x7f0200c4;
+		public static final int shape_kitkat_square_undobarselected = 0x7f0200c5;
+		public static final int shape_kitkat_undobarfocused = 0x7f0200c6;
+		public static final int shape_kitkat_undobarselected = 0x7f0200c7;
+		public static final int shape_undobarfocused = 0x7f0200c8;
+		public static final int shape_undobarselected = 0x7f0200c9;
 	}
 	public static final class id {
-		public static final int button = 0x7f0c00fb;
-		public static final int card_container = 0x7f0c0090;
-		public static final int divider = 0x7f0c00fa;
-		public static final int message_textview = 0x7f0c00f9;
-		public static final int progress_bar = 0x7f0c00fc;
-		public static final int root_layout = 0x7f0c00f8;
+		public static final int button = 0x7f0c0100;
+		public static final int card_container = 0x7f0c0095;
+		public static final int divider = 0x7f0c00ff;
+		public static final int message_textview = 0x7f0c00fe;
+		public static final int progress_bar = 0x7f0c0101;
+		public static final int root_layout = 0x7f0c00fd;
 	}
 	public static final class layout {
-		public static final int dummy_layout = 0x7f03001f;
-		public static final int superactivitytoast_button = 0x7f030039;
-		public static final int superactivitytoast_progresscircle = 0x7f03003a;
-		public static final int superactivitytoast_progresshorizontal = 0x7f03003b;
-		public static final int supercardtoast = 0x7f03003c;
-		public static final int supercardtoast_button = 0x7f03003d;
-		public static final int supercardtoast_progresscircle = 0x7f03003e;
-		public static final int supercardtoast_progresshorizontal = 0x7f03003f;
-		public static final int supertoast = 0x7f030040;
+		public static final int dummy_layout = 0x7f030022;
+		public static final int superactivitytoast_button = 0x7f03003c;
+		public static final int superactivitytoast_progresscircle = 0x7f03003d;
+		public static final int superactivitytoast_progresshorizontal = 0x7f03003e;
+		public static final int supercardtoast = 0x7f03003f;
+		public static final int supercardtoast_button = 0x7f030040;
+		public static final int supercardtoast_progresscircle = 0x7f030041;
+		public static final int supercardtoast_progresshorizontal = 0x7f030042;
+		public static final int supertoast = 0x7f030043;
 	}
 	public static final class style {
 		public static final int DefaultRootLayout = 0x7f070004;

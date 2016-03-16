@@ -1,4 +1,4 @@
-include ':ambilWarna'
+include ':ambilWarna', ':novelreaderbook', ':aFileChooser'
 include ':superToasts'
 include ':code'
 include ':library'

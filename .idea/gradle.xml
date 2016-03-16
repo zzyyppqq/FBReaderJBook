@@ -8,20 +8,24 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aFileChooser" />
             <option value="$PROJECT_DIR$/ambilWarna" />
             <option value="$PROJECT_DIR$/code" />
             <option value="$PROJECT_DIR$/fBReader" />
             <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/novelreaderbook" />
             <option value="$PROJECT_DIR$/superToasts" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aFileChooser" />
             <option value="$PROJECT_DIR$/ambilWarna" />
             <option value="$PROJECT_DIR$/code" />
             <option value="$PROJECT_DIR$/fBReader" />
             <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/novelreaderbook" />
             <option value="$PROJECT_DIR$/superToasts" />
           </set>
         </option>

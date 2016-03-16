@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/values-ldpi-v4/values-ldpi-v4.xml",
+        "outputFile": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/values-ldpi-v4/values-ldpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/res/values-ldpi-v4/values-ldpi-v4.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/code/unspecified/res/values-ldpi-v4/values-ldpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 171
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/res/values-ldpi-v4/values-ldpi-v4.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/code/unspecified/res/values-ldpi-v4/values-ldpi-v4.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 221
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/code/unspecified/res/values-ldpi-v4/values-ldpi-v4.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/code/unspecified/res/values-ldpi-v4/values-ldpi-v4.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

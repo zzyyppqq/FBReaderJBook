@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/res/merged/debug/values-v19/values-v19.xml",
+        "outputFile": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/res/merged/debug/values-v19/values-v19.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 103
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -31,7 +31,7 @@
                     "endOffset": 233
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -52,7 +52,7 @@
                     "endOffset": 773
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -73,7 +73,7 @@
                     "endOffset": 1085
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -94,7 +94,7 @@
                     "endOffset": 1270
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -115,7 +115,7 @@
                     "endOffset": 1614
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -136,7 +136,7 @@
                     "endOffset": 1859
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -157,7 +157,7 @@
                     "endOffset": 2172
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -178,7 +178,7 @@
                     "endOffset": 2331
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -199,7 +199,7 @@
                     "endOffset": 2536
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 2770
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 2912
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -262,7 +262,7 @@
                     "endOffset": 3095
                 },
                 "from": {
-                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJ1/fBReader/build/intermediates/exploded-aar/FBReaderJ1/superToasts/unspecified/res/values-v19/values-v19.xml",
+                    "file": "/Users/zhangyipeng/Downloads/GITHUB/FBReaderJBook/fBReader/build/intermediates/exploded-aar/FBReaderJBook/superToasts/unspecified/res/values-v19/values-v19.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,

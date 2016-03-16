@@ -19,14 +19,14 @@
 
 package org.geometerplus.android.fbreader;
 
-import java.util.*;
-
+import org.geometerplus.android.fbreader.api.MenuNode;
+import org.geometerplus.fbreader.fbreader.ActionCode;
 import org.geometerplus.zlibrary.core.library.ZLibrary;
 import org.geometerplus.zlibrary.ui.android.R;
 
-import org.geometerplus.fbreader.fbreader.ActionCode;
-
-import org.geometerplus.android.fbreader.api.MenuNode;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public abstract class MenuData {
 	private static List<MenuNode> ourNodes;
@@ -38,16 +38,16 @@ public abstract class MenuData {
 	public static synchronized List<MenuNode> topLevelNodes() {
 		if (ourNodes == null) {
 			ourNodes = new ArrayList<MenuNode>();
-			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_LIBRARY, R.drawable.ic_menu_library));
-			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_NETWORK_LIBRARY, R.drawable.ic_menu_networklibrary));
-			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_TOC, R.drawable.ic_menu_toc));
-			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_BOOKMARKS, R.drawable.ic_menu_bookmarks));
-			addToplevelNode(new MenuNode.Item(ActionCode.SWITCH_TO_NIGHT_PROFILE, R.drawable.ic_menu_night));
-			addToplevelNode(new MenuNode.Item(ActionCode.SWITCH_TO_DAY_PROFILE, R.drawable.ic_menu_day));
-			addToplevelNode(new MenuNode.Item(ActionCode.SEARCH, R.drawable.ic_menu_search));
-			addToplevelNode(new MenuNode.Item(ActionCode.SHARE_BOOK));
-			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_PREFERENCES));
-			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_BOOK_INFO));
+			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_LIBRARY, R.drawable.setting_local_book));
+			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_NETWORK_LIBRARY, R.drawable.setting_online_book));
+			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_TOC, R.drawable.setting_dir));
+			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_BOOKMARKS, R.drawable.setting_bookmark2));
+			addToplevelNode(new MenuNode.Item(ActionCode.SWITCH_TO_NIGHT_PROFILE, R.drawable.setting_dark));
+			addToplevelNode(new MenuNode.Item(ActionCode.SWITCH_TO_DAY_PROFILE, R.drawable.setting_day));
+			addToplevelNode(new MenuNode.Item(ActionCode.SEARCH, R.drawable.setting_book_search));
+			addToplevelNode(new MenuNode.Item(ActionCode.SHARE_BOOK,R.drawable.setting_share));
+			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_PREFERENCES,R.drawable.setting_set));
+			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_BOOK_INFO,R.drawable.setting_book_info));
 			final MenuNode.Submenu orientations = new MenuNode.Submenu("screenOrientation");
 			orientations.Children.add(new MenuNode.Item(ActionCode.SET_SCREEN_ORIENTATION_SYSTEM));
 			orientations.Children.add(new MenuNode.Item(ActionCode.SET_SCREEN_ORIENTATION_SENSOR));
@@ -58,12 +58,12 @@ public abstract class MenuData {
 				orientations.Children.add(new MenuNode.Item(ActionCode.SET_SCREEN_ORIENTATION_REVERSE_LANDSCAPE));
 			}
 			addToplevelNode(orientations);
-			addToplevelNode(new MenuNode.Item(ActionCode.INCREASE_FONT));
-			addToplevelNode(new MenuNode.Item(ActionCode.DECREASE_FONT));
-			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_NAVIGATION));
-			addToplevelNode(new MenuNode.Item(ActionCode.INSTALL_PLUGINS));
-			addToplevelNode(new MenuNode.Item(ActionCode.OPEN_WEB_HELP));
-			addToplevelNode(new MenuNode.Item(ActionCode.OPEN_START_SCREEN));
+			addToplevelNode(new MenuNode.Item(ActionCode.INCREASE_FONT,R.drawable.setting_font_big));
+			addToplevelNode(new MenuNode.Item(ActionCode.DECREASE_FONT,R.drawable.setting_font_small));
+			addToplevelNode(new MenuNode.Item(ActionCode.SHOW_NAVIGATION,R.drawable.setting_fast_progress2));
+			addToplevelNode(new MenuNode.Item(ActionCode.INSTALL_PLUGINS,R.drawable.setting_plug2));
+			addToplevelNode(new MenuNode.Item(ActionCode.OPEN_WEB_HELP,R.drawable.setting_help));
+			addToplevelNode(new MenuNode.Item(ActionCode.OPEN_START_SCREEN,R.drawable.setting_start_screen2));
 			ourNodes = Collections.unmodifiableList(ourNodes);
 		}
 		return ourNodes;

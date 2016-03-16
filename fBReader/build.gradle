@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+//    useLibrary 'org.apache.http.legacy'//兼容6.0以下的api
     compileSdkVersion 19
     buildToolsVersion "23.0.2"
 
@@ -27,7 +28,7 @@ dependencies {
     compile project(':library')
     compile project(':superToasts')
     compile project(':code')
-    compile 'com.android.support:support-v4:19.1.0'
+    compile 'com.android.support:support-v4:23.1.0'
     compile files('libs/LingvoIntegration_2.5.2.12.jar')
     compile files('libs/httpmime-4.2.5.jar')
     compile files('libs/json-simple-1.1.1.jar')
@@ -40,4 +41,12 @@ dependencies {
     compile files('src/main/libs/nanohttpd-2.0.5.jar')
     compile files('src/main/libs/open-dictionary-api-1.2.1.jar')
     compile files('src/main/libs/pdfparse.jar')
+    compile 'com.jakewharton:butterknife:7.0.1'
+
+//    compile('com.github.afollestad.material-dialogs:core:0.8.5.3@aar') {
+//        transitive = true
+//    }
+//    compile('com.github.afollestad.material-dialogs:commons:0.8.5.3@aar') {
+//        transitive = true
+//    }
 }
